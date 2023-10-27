@@ -14,3 +14,4 @@ An action filter was added for the top ten incident categories, which filtered t
 Plotted a line graph which useful to represent the trend followed in the dataset
 
 
+<img width="1001" alt="Screenshot 2023-05-13 at 3 06 27 PM" src="https://github.com/OmkarS12/Visualization-of-SF-Crime-Incidents/assets/122317280/17720a48-1428-48ed-a328-480e7009a2aa">
